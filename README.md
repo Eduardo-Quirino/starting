@@ -20,3 +20,4 @@ Para desenvolver esse projeto, recomendamos que você configure um ambiente de d
 
 #### **Projeto** 🔗https://github.com/emanoelvianna/starting
 
+<img src="./_img/capa-site.png" style="zoom:150%;" >
